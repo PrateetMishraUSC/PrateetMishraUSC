@@ -6,13 +6,13 @@ I build scalable backend systems, full stack products, and applied AI applicatio
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/prateet-mishra/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="[YOUR_PORTFOLIO_URL](https://www.linkedin.com/in/prateet-mishra/)">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:prateetm@usc.edu">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -21,18 +21,14 @@ I build scalable backend systems, full stack products, and applied AI applicatio
 
 ## About Me
 
-- MS in Computer Science from USC  
-- Building across backend, frontend, cloud, and applied AI  
+- MS in Computer Science from University of Southern California  
+- Building across frontend, backend, cloud, and applied AI  
 - Interested in scalable systems, APIs, real time applications, and AI powered products  
 - Open to Software Engineer and Applied AI Engineer opportunities  
 
 ---
 
 ## Featured Projects
-
-### WeBudget
-AI driven budgeting and bill splitting app built with Next.js, Supabase, Prisma, and background job workflows  
-Focused on real time sync, automation, OCR based categorization, and reliability  
 
 ### DocuChat
 Multimodal RAG application built with FastAPI, React, FAISS, and Hugging Face  
@@ -41,6 +37,10 @@ Designed for document understanding, retrieval grounded responses, and concurren
 ### Financial Data and Trading Platform
 Event driven platform built with Node.js, Angular, Redis, Docker, MongoDB, and GCP Kubernetes  
 Focused on real time price updates, streaming pipelines, and microservice deployment  
+
+### WeBudget
+AI driven budgeting and bill splitting app built with Next.js, Supabase, Prisma, and background job workflows  
+Focused on real time sync, automation, OCR based categorization, and reliability  
 
 ---
 
