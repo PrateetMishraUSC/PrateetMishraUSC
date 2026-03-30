@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Prateet Mishra</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&weight=600&size=26&duration=2500&pause=900&center=true&vCenter=true&width=700&lines=Software+Engineer;Applied+AI+Engineer;Full+Stack+%7C+LLM+Systems+Agentic+AI+%7C" />
+  <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&weight=600&size=26&duration=2500&pause=900&center=true&vCenter=true&width=700&lines=Software+Engineer;Applied+AI+Engineer;Full+Stack+%7C+LLM+Systems+7%C+Agentic+AI+%7C" />
 </p>
 
 <p align="center">
