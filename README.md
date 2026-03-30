@@ -1,4 +1,7 @@
 <h1 align="center">Hi, I'm Prateet Mishra</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=Software+Engineer;Applied+AI+Engineer;Backend+%7C+Full+Stack+%7C+LLM+Systems" />
+</p>
 <h3 align="center">Software Engineer • Applied AI Engineer • USC MS CS</h3>
 
 <p align="center">
