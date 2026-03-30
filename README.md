@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Prateet Mishra</h1>
+<h1 align="center">Hi, I'm Prateet Mishra 👋</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=TimesNewRoman&weight=600&size=26&duration=2500&pause=900&center=true&vCenter=true&width=700&lines=Software+Engineer;Applied+AI+Engineer;Full+Stack+%7C+LLM+Systems+%7C+Agentic+AI" />
 </p>
@@ -21,32 +21,33 @@ I build scalable full stack products, and applied AI applications focused on per
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- MS in Computer Science from University of Southern California  
-- Building across frontend, backend, cloud, and applied AI  
-- Interested in scalable systems, APIs, real time applications, and AI powered products  
-- Open to Software Engineer and Applied AI Engineer opportunities  
+- 🎓 MS in Computer Science at University of Southern California  
+- 💻 Building across frontend, backend, cloud, and applied AI  
+- ⚙️ Interested in scalable systems, APIs, real time applications, and AI powered products  
+- 🌱 Currently exploring production LLM systems, RAG, and agentic workflows  
+- 📫 Open to Software Engineer and Applied AI Engineer opportunities  
 
 ---
 
-## Featured Projects
+## 🛠️ Featured Projects
 
-### DocuChat
+### 📄 DocuChat
 Multimodal RAG application built with FastAPI, React, FAISS, and Hugging Face  
 Designed for document understanding, retrieval grounded responses, and concurrent usage  
 
-### Financial Data and Trading Platform
+### 📈 Financial Data and Trading Platform
 Event driven platform built with Node.js, Angular, Redis, Docker, MongoDB, and GCP Kubernetes  
 Focused on real time price updates, streaming pipelines, and microservice deployment  
 
-### WeBudget
+### 💸 WeBudget
 AI driven budgeting and bill splitting app built with Next.js, Supabase, Prisma, and background job workflows  
 Focused on real time sync, automation, OCR based categorization, and reliability  
 
 ---
 
-## Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
 <p>
