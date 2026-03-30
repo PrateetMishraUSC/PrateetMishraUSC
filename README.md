@@ -88,7 +88,3 @@ Focused on real time sync, automation, OCR based categorization, and reliability
   <img src="https://img.shields.io/badge/OCR-5A5A5A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrateetMishraUSC&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
