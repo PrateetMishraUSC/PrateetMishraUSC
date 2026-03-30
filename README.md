@@ -19,8 +19,6 @@ I build scalable full stack products, and applied AI applications focused on per
   </a>
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🎓 MS in Computer Science at University of Southern California  
@@ -28,8 +26,6 @@ I build scalable full stack products, and applied AI applications focused on per
 - ⚙️ Interested in scalable systems, APIs, real time applications, and AI powered products  
 - 🌱 Currently exploring production LLM systems, RAG, and agentic workflows  
 - 📫 Open to Software Engineer and Applied AI Engineer opportunities  
-
----
 
 ## 🛠️ Featured Projects
 
@@ -44,8 +40,6 @@ Focused on real time price updates, streaming pipelines, and microservice deploy
 ### 💸 WeBudget
 AI driven budgeting and bill splitting app built with Next.js, Supabase, Prisma, and background job workflows  
 Focused on real time sync, automation, OCR based categorization, and reliability  
-
----
 
 ## 🧰 Tech Stack
 
@@ -95,11 +89,6 @@ Focused on real time sync, automation, OCR based categorization, and reliability
   <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge" />
 </p>
 
----
-
-## GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PrateetMishraUSC&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateetMishraUSC&layout=compact&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=PrateetMishraUSC&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
