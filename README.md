@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer • Applied AI Engineer • USC MS CS</h3>
 
 <p align="center">
-I build scalable backend systems, full stack products, and applied AI applications focused on performance, reliability, and real world user impact.
+I build scalable full stack products, and applied AI applications focused on performance, reliability, and real world user impact.
 </p>
 
 <p align="center">
