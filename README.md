@@ -29,15 +29,15 @@ I build scalable full stack products, and applied AI applications focused on per
 
 ## 🛠️ Featured Projects
 
-### 📄 DocuChat
+### 📄 [DocuChat](https://github.com/PrateetMishraUSC/Text-First-Multimodal-Rag)
 Multimodal RAG application built with FastAPI, React, FAISS, and Hugging Face  
 Designed for document understanding, retrieval grounded responses, and concurrent usage  
 
-### 📈 Financial Data and Trading Platform
+### 📈 [Financial Data and Trading Platform](https://github.com/PrateetMishraUSC/Stock-Trading-and-Analytics-Platform)
 Event driven platform built with Node.js, Angular, Redis, Docker, MongoDB, and GCP Kubernetes  
 Focused on real time price updates, streaming pipelines, and microservice deployment  
 
-### 💸 WeBudget
+### 💸 [WeBudget](https://github.com/PrateetMishraUSC/WeBudget)
 AI driven budgeting and bill splitting app built with Next.js, Supabase, Prisma, and background job workflows  
 Focused on real time sync, automation, OCR based categorization, and reliability  
 
