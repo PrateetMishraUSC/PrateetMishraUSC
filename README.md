@@ -19,6 +19,8 @@ I build scalable full stack products, and applied AI applications focused on per
   </a>
 </p>
 
+---
+
 ## 🚀 About Me
 
 - 🎓 MS in Computer Science at University of Southern California  
@@ -27,9 +29,11 @@ I build scalable full stack products, and applied AI applications focused on per
 - 🌱 Currently exploring production LLM systems, RAG, and agentic workflows  
 - 📫 Open to Software Engineer and Applied AI Engineer opportunities  
 
+---
+
 ## 🛠️ Featured Projects
 
-### 🧩 [Syntropy](https://syntropy-59hj.vercel.app/sign-in?redirect_url=https%3A%2F%2Fsyntropy-59hj.vercel.app%2F)
+### 🧩 [Syntropy](https://github.com/PrateetMishraUSC/Syntropy)
 Syntropy is a real-time collaborative platform for designing system architectures. Think of it as a whiteboard-meets-AI-architect: multiple users can simultaneously build, edit, and reason about complex system diagrams while an AI agent assists with layout, component placement, and technical specification generation.
 
 ### 📄 [DocuChat](https://github.com/PrateetMishraUSC/Text-First-Multimodal-Rag)
@@ -43,6 +47,8 @@ Focused on real time price updates, streaming pipelines, and microservice deploy
 ### 💸 [WeBudget](https://github.com/PrateetMishraUSC/WeBudget)
 AI driven budgeting and bill splitting app built with Next.js, Supabase, Prisma, and background job workflows  
 Focused on real time sync, automation, OCR based categorization, and reliability  
+
+---
 
 ## 🧰 Tech Stack
 
@@ -90,4 +96,39 @@ Focused on real time sync, automation, OCR based categorization, and reliability
   <img src="https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OCR-5A5A5A?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Generative_AI-FF6F61?style=for-the-badge" />
+</p>
+
+---
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrateetMishraUSC&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PrateetMishraUSC&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PrateetMishraUSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateetMishraUSC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=PrateetMishraUSC&theme=tokyonight&no-frame=true&column=7" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PrateetMishraUSC&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
 </p>
