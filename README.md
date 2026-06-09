@@ -29,6 +29,9 @@ I build scalable full stack products, and applied AI applications focused on per
 
 ## 🛠️ Featured Projects
 
+### 🧩 [Syntropy](https://syntropy-59hj.vercel.app/sign-in?redirect_url=https%3A%2F%2Fsyntropy-59hj.vercel.app%2F)
+Syntropy is a real-time collaborative platform for designing system architectures. Think of it as a whiteboard-meets-AI-architect: multiple users can simultaneously build, edit, and reason about complex system diagrams while an AI agent assists with layout, component placement, and technical specification generation.
+
 ### 📄 [DocuChat](https://github.com/PrateetMishraUSC/Text-First-Multimodal-Rag)
 Multimodal RAG application built with FastAPI, React, FAISS, and Hugging Face  
 Designed for document understanding, retrieval grounded responses, and concurrent usage  
