@@ -115,8 +115,9 @@ Focused on real time sync, automation, OCR based categorization, and reliability
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrateetMishraUSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrateetMishraUSC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PrateetMishraUSC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PrateetMishraUSC&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" />
+
 </p>
 
 ---
